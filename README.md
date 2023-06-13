@@ -3,7 +3,6 @@
   <!-- PROJECT SHIELDS -->
 
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
   <!-- PROJECT LOGO -->
 
@@ -18,6 +17,7 @@
 This portfolio application was built using React and is designed to showcase my projects. It features a dynamic and visually appealing layout. <br/>
       <br/>
       Built by: Michael Yeates
+      Modified by: Daninsyah Bagas Abiyansa
       <br/>
       <br/>
     </p>
