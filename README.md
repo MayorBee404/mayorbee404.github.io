@@ -17,7 +17,6 @@
 This portfolio application was built using React and is designed to showcase my projects. It features a dynamic and visually appealing layout. <br/>
       <br/>
       Built by: Michael Yeates
-      Modified by : Daninsyah Bagas Abiyansa
       <br/>
       Modified by: Daninsyah Bagas Abiyansa
       <br/>
