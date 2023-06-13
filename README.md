@@ -1,22 +1,20 @@
 <a name="readme-top"></a>
 
-  <!-- PROJECT SHIELDS -->
-
 [![MIT License][license-shield]][license-url]
 
-  <!-- PROJECT LOGO -->
-
   <br />
-  <div align="center">
-    <a href="https://github.com/mdyeates/my-portfolio">
-      <img src="src/images/logo.svg" alt="Logo" width="200" height="200">
+  <div align="left">
+    <a>
+      <img src="src/images/logo.svg" alt="Logo" width="200" height="">
     </a>
-    <h3 align="center">My React Portfolio</h3>
-    <p align="center">
+    <h3 align="left">My React Portfolio</h3>
+    <p align="left">
     <br/>
-This portfolio application was built using React and is designed to showcase my projects. It features a dynamic and visually appealing layout. <br/>
+      This portfolio application was built using React and is designed to showcase my projects.
+      It features a dynamic and visually appealing layout.
       <br/>
-      Built by: Michael Yeates
+      <br/>
+      Built by: [Michael Yeates](https://github.com/mdyeates/my-portfolio)
       <br/>
       Modified by: Daninsyah Bagas Abiyansa
       <br/>
@@ -28,8 +26,6 @@ This portfolio application was built using React and is designed to showcase my 
   ### Built With
   
   - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB)
-
- <!-- <p align="right"><a href="#readme-top">back to top</a></p> -->
   
   ### Description
   
