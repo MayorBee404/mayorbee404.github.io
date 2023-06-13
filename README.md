@@ -17,8 +17,8 @@
 This portfolio application was built using React and is designed to showcase my projects. It features a dynamic and visually appealing layout. <br/>
       <br/>
       Built by: Michael Yeates
-      Modified by: Daninsyah Bagas Abiyansa
       <br/>
+      Modified by: Daninsyah Bagas Abiyansa
       <br/>
     </p>
   </div>
@@ -68,19 +68,19 @@ This portfolio application was built using React and is designed to showcase my 
 
 [![My React Portfolio Screen Shot][product-screenshot4]](https://michaelyeates.co.uk)
 
-  <p align="right"><a href="#readme-top">back to top</a></p> --> -->
+  <p align="right"><a href="#readme-top">back to top</a></p> --> 
   
   ### Built With
   
   - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB)
 
-  <p align="right"><a href="#readme-top">back to top</a></p>
+ <!-- <p align="right"><a href="#readme-top">back to top</a></p> -->
   
   ### Description
   
   This is the initial version of my portfolio website, built with React. It presents a comprehensive showcase of my projects. The design places a strong emphasis on a mobile-first approach, delivering a professional and polished look through the use of a carefully chosen color palette.
   
-  <p align="right"><a href="#readme-top">back to top</a></p>
+ <!-- <p align="right"><a href="#readme-top">back to top</a></p> -->
 
 <!-- GETTING STARTED -->
 
@@ -131,7 +131,7 @@ To get a local copy up and running follow these simple example steps.
 
 Distributed under the MIT License. See `LICENSE.md` for more information.
 
-  <p align="right"><a href="#readme-top">back to top</a></p>
+ <!-- <p align="right"><a href="#readme-top">back to top</a></p> -->
   
   
 <!-- QUESTIONS -->
@@ -171,3 +171,5 @@ Project Link: [https://github.com/mdyeates/my-portfolio](https://github.com/mdye
 [responsive-screenshot2]: src/images/mobile-screenshot2.png
 [responsive-screenshot3]: src/images/mobile-screenshot3.png
 [responsive-screenshot4]: src/images/mobile-screenshot4.png -->
+
+<p align="right"><a href="#readme-top">back to top</a></p>
