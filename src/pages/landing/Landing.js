@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
-import landingImage from "../../images/me.svg";
+import landingImage from "../../images/abi.svg";
 import Draw from "../../components/Draw";
 import SocialIcons from "../../components/SocialIcons";
 
@@ -74,7 +74,7 @@ const Landing = ({ name }) => {
           transition={{ duration: 1, ease: "easeInOut" }}
           style={styles.landingImage}
           src={landingImage}
-          alt="Michael Yeates"
+          alt="Daninsyah Bagas Abiyansa"
         />
       </div>
       <SocialIcons />
