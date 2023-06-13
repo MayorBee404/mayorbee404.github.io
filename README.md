@@ -17,6 +17,7 @@
 This portfolio application was built using React and is designed to showcase my projects. It features a dynamic and visually appealing layout. <br/>
       <br/>
       Built by: Michael Yeates
+      Modified by : Daninsyah Bagas Abiyansa
       <br/>
       Modified by: Daninsyah Bagas Abiyansa
       <br/>
@@ -172,4 +173,6 @@ Project Link: [https://github.com/mdyeates/my-portfolio](https://github.com/mdye
 [responsive-screenshot3]: src/images/mobile-screenshot3.png
 [responsive-screenshot4]: src/images/mobile-screenshot4.png -->
 
+
 <p align="right"><a href="#readme-top">back to top</a></p>
+
