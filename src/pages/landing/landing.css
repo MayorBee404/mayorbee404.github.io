@@ -24,18 +24,18 @@
 
 /* --- MEDIA QUERIES --- */
 
-@media (min-width: 750px) {
+@media (min-width: 800px) {
   .landing .name {
     font-size: 50px;
   }
 
   .landing .description {
-    font-size: 32px;
+    font-size: 30px;
   }
 
   .landingImage {
     bottom: 0;
-    right: 0px;
+    
   }
 
   .landing .socialIcons {
