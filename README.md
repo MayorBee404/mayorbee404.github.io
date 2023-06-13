@@ -2,24 +2,15 @@
 
 [![MIT License][license-shield]][license-url]
 
-  <br />
-  <div align="left">
-    <a>
-      <img src="src/images/logo.svg" alt="Logo" width="200" height="">
-    </a>
-    <h3 align="left">My React Portfolio</h3>
-    <p align="left">
-    <br/>
-      This portfolio application was built using React and is designed to showcase my projects.
-      It features a dynamic and visually appealing layout.
-      <br/>
-      <br/>
-      Built by: [Michael Yeates](https://github.com/mdyeates/my-portfolio)
-      <br/>
-      Modified by: Daninsyah Bagas Abiyansa
-      <br/>
-    </p>
-  </div>
+<img src="src/images/logo.svg" alt="Logo" width="200" height="">
+
+  ## My React Portfolio
+  
+  This portfolio application was built using React and is designed to showcase my projects.
+  It features a dynamic and visually appealing layout.
+      
+  - Built by: [Michael Yeates](https://github.com/mdyeates)
+  - Modified by: [Daninsyah Bagas Abiyansa](https://github.com/MayorBee404)
   
   ## About The Project
   
