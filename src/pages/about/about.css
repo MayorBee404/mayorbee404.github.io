@@ -20,8 +20,8 @@
 .personalImage img {
   height: 250px;
   z-index: 50;
-  border-radius: 250px;
-  border: 1px solid var(--grey);
+  border-radius: 0px;
+  border: px solid var(--grey);
 }
 
 .contentContainer {
@@ -71,7 +71,7 @@
 }
 
 .infoContainer a:hover {
-  color: #03b979;
+  color: #66C5D8;
 }
 
 .buttonContainer {
