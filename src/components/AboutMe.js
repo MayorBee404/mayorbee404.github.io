@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import SocialIcons from "../components/SocialIcons";
 import { useInView } from "react-intersection-observer";
 import { useState, useEffect } from "react";
-// import resume from "../pages/about/michael-yeates-resume.pdf";
+import resume from "../pages/about/abiyansa-resume.pdf";
 
 const AboutMe = ({ name, email, location, availability, brand }) => {
   const [ref, inView] = useInView({
@@ -20,8 +20,8 @@ const AboutMe = ({ name, email, location, availability, brand }) => {
   const handleDownload = () => {
     setDownloading(true);
     const link = document.createElement("a");
-    link.href = '';
-    link.download = "";
+    link.href = resume;
+    link.download = "Abiyansa-Resume.pdf";
     link.onload = () => {
       link.remove();
       setDownloading(false);
@@ -53,7 +53,7 @@ const AboutMe = ({ name, email, location, availability, brand }) => {
         >
           <div className="contentContainer">
             <h4>Hi there, I am Abiyansa 👋 </h4>
-            <h5>As a graduated in Software Engineering </h5>
+            <h5>As a graduated of Software Engineering </h5>
             <div className="contentDescription">
               <p>{brand}</p>
             </div>
