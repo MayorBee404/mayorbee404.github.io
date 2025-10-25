@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portofolio-abiyansa/static/css/main.1d374875.css",
-    "main.js": "/portofolio-abiyansa/static/js/main.b0af541d.js",
-    "static/media/aboutme.svg": "/portofolio-abiyansa/static/media/aboutme.280cf56d870ec3909672c38f91c5d4d6.svg",
-    "static/media/abi.svg": "/portofolio-abiyansa/static/media/abi.a41b320c94cb75361edd4ad88df1cb1f.svg",
-    "static/media/Abiyansa_Resume.pdf": "/portofolio-abiyansa/static/media/Abiyansa_Resume.184b60593d0b321198b9.pdf",
-    "static/media/logo.svg": "/portofolio-abiyansa/static/media/logo.c8f31ddb3235787e1df2f94fd42fc68f.svg",
-    "index.html": "/portofolio-abiyansa/index.html",
-    "static/media/close.svg": "/portofolio-abiyansa/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
-    "static/media/open.svg": "/portofolio-abiyansa/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
-    "main.1d374875.css.map": "/portofolio-abiyansa/static/css/main.1d374875.css.map",
-    "main.b0af541d.js.map": "/portofolio-abiyansa/static/js/main.b0af541d.js.map"
+    "main.css": "/static/css/main.1d374875.css",
+    "main.js": "/static/js/main.c6efb54e.js",
+    "static/media/aboutme.svg": "/static/media/aboutme.280cf56d870ec3909672c38f91c5d4d6.svg",
+    "static/media/abi.svg": "/static/media/abi.a41b320c94cb75361edd4ad88df1cb1f.svg",
+    "static/media/Abiyansa_Resume.pdf": "/static/media/Abiyansa_Resume.184b60593d0b321198b9.pdf",
+    "static/media/logo.svg": "/static/media/logo.c8f31ddb3235787e1df2f94fd42fc68f.svg",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
+    "static/media/open.svg": "/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
+    "main.1d374875.css.map": "/static/css/main.1d374875.css.map",
+    "main.c6efb54e.js.map": "/static/js/main.c6efb54e.js.map"
   },
   "entrypoints": [
     "static/css/main.1d374875.css",
-    "static/js/main.b0af541d.js"
+    "static/js/main.c6efb54e.js"
   ]
 }
